@@ -1,0 +1,77 @@
+*{
+    color: #F0FFFF;
+
+    
+}
+div{
+    border-left: 20px solid #202020;
+    background-color:  #ff6b99;
+    height: 200px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+       
+}
+
+body{
+   
+    background-color: pink;
+    background-image: url('https://lastfm-img2.akamaized.net/i/u/770x0/7310767fe769fbba74370d716b91faa1.jpg');
+    
+}
+
+
+#menu{
+    border: 20px solid #202020;
+    display: flex;
+    margin: 20px;
+    
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+
+    font-size: 12pt;
+}
+
+section{
+    font-size: 09pt;
+    border: solid #707070;
+    margin: 20px;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+
+}
+
+.peepinformation{
+    font-size: 09pt;
+    height: 100%;
+    border: solid 20px #202020;
+    display: flex;
+}
+
+.peepinformation2{
+    font-size: 09pt;
+    height: 100%;
+    border: solid 20px #202020;
+    display: flex;
+}
+
+p{
+  margin:20px;
+  border: solid 20px #202020;
+  background-color: #ff6b99;
+}
+
+img{
+    margin: 20px;
+    border: solid 20px #202020;
+    display:flex;
+    justify-content: initial;
+    align-content: center;
+    flex-direction: initial;
+} 
+
+

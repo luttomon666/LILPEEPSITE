@@ -1,0 +1,52 @@
+*{
+    color: white;
+}
+
+div{
+    border-left: 20px solid #202020;
+    background-color:  #ff6b99;
+    height: 300px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+       
+}
+
+body{
+    background-image: url('https://www.stanforddaily.com/wp-content/uploads/2017/11/Lil-peep.jpg');
+}
+
+
+#menu{
+    border: 20px solid #202020;
+    background-color: #ff6b99
+    display: flex;
+    margin: 20px;
+    height: 25%;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: 12pt;
+    flex-direction: column;
+}
+
+.informationcreator{
+    border: 20px solid #202020;
+    background-color: #ff6b99;
+    display: flex;
+    margin: 20px;
+    flex-direction: column;
+    font-size: 12pt;
+    height: 50%;
+}
+
+section{
+    font-size: 12pt;
+    border: solid #707070;
+    margin: 20px;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+
+}
